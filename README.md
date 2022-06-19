@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abinash Mohanty.
 - 👀 I’m interested in learning new things and implementing them on real world scenerios. 
-- 🌱 I’m currently learning web development and python.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on any project which help me learn new skills and techniques.
 
 
